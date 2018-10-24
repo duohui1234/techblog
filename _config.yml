@@ -1,7 +1,7 @@
 # Site settings
 title:          Dx3
 description:    "Duohui's Development Diary"
-baseurl:        "/tale"
+baseurl:        "/techblog"
 url:            "https://duohui1234.github.io"
 
 # Google Analytics
